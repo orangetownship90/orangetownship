@@ -289,3 +289,9 @@ header .nav .caret {
 }
 }
 .popul {margin-top:-8px}
+.thankyou {padding: 8px 15px;
+    background-color: #e97c15;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 3px;width: 13%;}
+	.thankyou:hover{color:#fff}
